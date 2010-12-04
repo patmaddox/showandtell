@@ -1,0 +1,33 @@
+#wrapper {
+  width: 90%;
+  margin: auto;
+}
+
+/*ul.highlights {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+*/
+
+ul.highlights li {
+  border: 1px solid #33ccff;
+  list-style-type: none;
+  float: left;
+  margin-right: 100px;
+  width: 380x;
+}
+
+ul.highlights h3, ul.highlights p {
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 100%;
+}
+
+ul.highlights li.last {
+  margin-right: 0;
+}
+
+div.signup_box {
+  clear: both;
+}
